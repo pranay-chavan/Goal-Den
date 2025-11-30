@@ -1,16 +1,67 @@
 # React + Vite
+[GitHub Repository]([Live Demo](https://pranay-chavan.github.io/Goal-Den/))
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# **GoalDen — Your Golden To‑Do List**
 
-Currently, two official plugins are available:
+GoalDen is a clean, smart, and fun task‑tracking app designed to help you turn your daily *goals* into something truly *golden*. ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 **Features**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* ✔️ Add, edit, and delete tasks easily
+* ⭐ Mark tasks as completed
+* 📅 Set deadlines or reminders (optional)
+* 🌓 Light / Dark mode (if added)
+* 🔐 Authentication (coming soon!)
+* 📱 Mobile‑friendly UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ **Tech Stack**
+
+* **Frontend:** React + Vite
+* **Styling:** Tailwind CSS (Scheme = Green & Gold)
+* **Deployment:** Vercel / GitHub Pages
+* **Backend (future):** Firebase Auth or Vercel KV
+
+---
+
+## 📂 **Project Structure**
+
+```
+src/
+  ├── components/
+  ├── pages/
+  ├── styles/
+  ├── App.jsx
+  ├── main.jsx
+public/
+README.md
+```
+
+###  🌐 Deployment
+
+* **Vercel:** Instant deploy + backend options
+* **GitHub Pages:** Frontend‑only deploy
+
+---
+
+## 💡 Future Plans
+
+* User accounts & login
+* Cloud sync
+* Categories & tags
+* Animations and better UI
+
+---
+
+## 🧑‍💻 Author
+
+Made with ❤️ and chaos by **PRANAY CHAVAN**.
+
+---
+
+## ⭐ Show Some Love
+
+If you like this project, drop a 🌟 on GitHub!
